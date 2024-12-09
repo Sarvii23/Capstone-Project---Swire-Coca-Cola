@@ -44,6 +44,7 @@ Additionally, I honed my teamwork skills, contributed subject matter expertise, 
 
 ## Attachments
 **[EDA NOTEBOOK](https://github.com/Sarvii23/Capstone-Project---Swire-Coca-Cola/blob/main/Individual_EDA_Assignment.ipynb)
+
 **[MODELLING NOTEBOOK](https://github.com/Sarvii23/Capstone-Project---Swire-Coca-Cola/blob/main/Capstone%20Individual%20Notebook%20.ipynb)
 
 
