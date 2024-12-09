@@ -43,8 +43,8 @@ The project also deepened my understanding of business intelligence by translati
 Additionally, I honed my teamwork skills, contributed subject matter expertise, and delivered a solution with significant business impact—potentially saving $27 million for Swire.
 
 ## Attachments
-**[EDA NOTEBOOK](https://github.com/Sarvii23/Capstone-Project---Swire-Coca-Cola/blob/main/Individual_EDA_Assignment.ipynb)
+**[EDA NOTEBOOK](https://github.com/Sarvii23/Capstone-Project---Swire-Coca-Cola/blob/main/Individual_EDA_Assignment.ipynb)**
 
-**[MODELLING NOTEBOOK](https://github.com/Sarvii23/Capstone-Project---Swire-Coca-Cola/blob/main/Capstone%20Individual%20Notebook%20.ipynb)
+**[MODELLING NOTEBOOK](https://github.com/Sarvii23/Capstone-Project---Swire-Coca-Cola/blob/main/Capstone%20Individual%20Notebook%20.ipynb)**
 
 
