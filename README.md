@@ -22,17 +22,20 @@ This analysis supported and validated the findings from time series analysis, cr
 Additionally, I worked on business intelligence to ensure the results were effectively translated into an interpretable format, enabling stakeholders to make data-driven decisions. 
 This combination of analytical rigor and practical application addressed the business problem with precision and clarity.
 
-The business value of the solution.
+The business value of the solution:
+
 By leveraging our predictive models, we demonstrated how Swire could mitigate $27 million of the $60 million potential revenue loss, providing a significant cost-saving and operational efficiency boost.
 
-Difficulties that your group encountered along the way.
+Difficulties that your group encountered along the way:
+
 Our group encountered several challenges during the project. 
 The data was unclean, with inconsistencies such as machines having start dates after their work order date. 
 Additionally, there was no machine expiry date, requiring us to choose a static date arbitrarily. 
 The absence of production data limited our ability to interpret production efficiency, and the lack of actual financial and inventory data hindered a more comprehensive analysis. 
 Despite these difficulties, we adapted our approach to derive meaningful insights and deliver impactful solutions.
 
-What you learned in the project.
+What you learned in the project:
+
 Through this project, I gained valuable experience in applying advanced analytical techniques, such as time series and survival analysis, to solve real-world business problems. 
 I learned the importance of feature engineering in enhancing predictive accuracy, particularly by creating failure risk scores and levels. 
 Working with unclean and incomplete data taught me the critical skills of data cleaning, assumption handling, and working with constraints. 
